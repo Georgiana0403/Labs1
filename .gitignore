@@ -1,0 +1,33 @@
+Anwendungsdaten/
+AppData/
+Cookies/
+Druckumgebung/
+Eigene Dateien/
+Lokale Einstellungen/
+Netzwerkumgebung/
+Recent/
+SendTo/
+Startmenü/
+Vorlagen/
+.aws/
+.gitconfig
+.lesshst
+.redhat/
+.vscode/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+NTUSER.DAT*
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+git-merge-exercise/
+inst.json
+ntuser.dat.LOG*
+ntuser.ini
